@@ -1,0 +1,12 @@
+zipp
+joblib
+numpy
+sklearn-pandas
+scikit-learn
+scipy
+seaborn
+pandas
+matplotlib
+Pillow
+plotly==5.9.0
+xgboost==1.6.1
